@@ -1,0 +1,54 @@
+{
+ "options": [
+  [
+   "gtest:build_gmock",
+   "True"
+  ],
+  [
+   "gtest:debug_postfix",
+   "d"
+  ],
+  [
+   "gtest:hide_symbols",
+   "False"
+  ],
+  [
+   "gtest:no_main",
+   "False"
+  ],
+  [
+   "gtest:shared",
+   "False"
+  ],
+  [
+   "protobuf:lite",
+   "False"
+  ],
+  [
+   "protobuf:shared",
+   "False"
+  ],
+  [
+   "protobuf:with_rtti",
+   "True"
+  ],
+  [
+   "protobuf:with_zlib",
+   "True"
+  ],
+  [
+   "zlib:minizip",
+   "deprecated"
+  ],
+  [
+   "zlib:shared",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}
