@@ -1,0 +1,4 @@
+protoc --proto_path=src --cpp_out=build/gen src/foo.proto src/bar/baz.proto
+
+D:\Git\work_repo\dif_mom_hw8\homework8\debug64>C:\.conan\c1fc2f\1\bin\protoc.exe --proto_path=D:\Git\work_repo\dif_mom_hw8\homework8 --cpp_out=D:\Git\work_repo\dif_mom_hw8\homework8 D:\Git\work_repo\dif_mom_hw8\homework8\students.proto
+
